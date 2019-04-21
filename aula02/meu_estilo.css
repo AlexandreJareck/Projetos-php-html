@@ -1,0 +1,20 @@
+/* Folha de estilos */
+
+p{
+	font-family: "Comic Sans MS";
+	font-size: 16px;
+	color:#f00;
+	background-color:#cff 
+	margin:0px;
+	padding:2px 5px;
+}
+
+body{
+	background-color:#3ffffff0 
+
+}
+
+h1,h2 {
+	font-family: "Comic Sans MS";
+	color:#f94394;
+}

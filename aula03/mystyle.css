@@ -1,0 +1,31 @@
+body {
+	font-family: garamont;
+	color: #333;
+	background-color: #d3d2d2;
+	font-size: 20px;
+}
+
+p {
+	text-align: justify;
+	
+}
+.campo {
+
+	border: solid 1px #45; /* Borda solida, com 1 px de espressura e cor preta */
+	border-radius: 5px; /*  cantos  arrendondados em 3px */
+	padding: 5px; /* espaço interno de 3px */
+}
+
+.botao {
+
+	border: solid 2px #45;
+	border-radius: 10px;
+	padding: 5px;
+	font-weight: bold; /* NEGRITO EM CSS !*/ 
+}
+
+.enviar {
+	background: #0c6;
+	color: #444
+}
+

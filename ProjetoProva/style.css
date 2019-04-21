@@ -1,0 +1,44 @@
+
+h2
+{
+	color: #297
+}
+
+body
+{
+	background-color: #f765
+}
+
+
+
+p {
+	text-align: justify;
+	
+}
+
+
+	label {
+	font-weight: bold;
+}
+
+.campo {
+	border: solid 1px #555;
+	border-radius: 10px;
+	padding: 6px;
+
+}
+
+.botao {
+
+	border: solid 2px #45;
+	border-radius: 10px;
+	padding: 5px;
+	font-weight: bold; /* NEGRITO EM CSS !*/ 
+}
+
+
+
+.enviarex02 {
+	background: #0c6;
+	color: #444
+}

@@ -1,0 +1,19 @@
+
+		form, h2{
+
+	        width: 900px;
+	        margin: 0 auto;
+	    
+		}
+
+
+
+
+	.selecao-arquivo {
+  background-color: #3498db;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  margin: 10px;
+  padding: 6px 20px
+	}
